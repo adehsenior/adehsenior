@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adehsenior I am a Product Designer
 - 👀 I’m interested in UI/UX Design
-- 🌱 I’m currently learning .UI/UX design
+- 🌱 I’m currently learning .UI/UX design/Frontend Development
 - 💞️ I’m looking to collaborate on .Mobile App/Web App design
 - 📫 How to reach me ...adehsenior@gmail.com
 
